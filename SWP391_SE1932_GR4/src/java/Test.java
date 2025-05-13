@@ -24,6 +24,7 @@ public class Test extends HttpServlet {
     throws ServletException, IOException {
       String name = request.getParameter("name");
       String a = request.getParameter("a");
+      String ok = request.getParameter("cf");
     } 
 
   
