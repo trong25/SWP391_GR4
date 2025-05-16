@@ -24,18 +24,8 @@ public class Test extends HttpServlet {
     throws ServletException, IOException {
       String name = request.getParameter("name");
       String a = request.getParameter("a");
-<<<<<<< HEAD
-      
- String a1 = request.getParameter("a1");
-     
-=======
-      String ok = request.getParameter("cf");
-       String a1 = request.getParameter("a1");
-       //âfafadfdsfsf
-       //sâfbaubufbua
-       //ádasdadas//ádsafasfsafsafsafsaf
-       //huýadas
->>>>>>> 36c56544ec2056503799170918a37e211081528b
+//dsfafad
+        //dsadasds
     } 
 
   
