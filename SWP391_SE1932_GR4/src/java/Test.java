@@ -25,9 +25,15 @@ public class Test extends HttpServlet {
       String name = request.getParameter("name");
       String a = request.getParameter("a");
       String ok = request.getParameter("cf");
+<<<<<<< Updated upstream
        String e = request.getParameter("e");
        // trong ngu
        //ádasdasds
+=======
+       String a1 = request.getParameter("a1");
+       //âfafadfdsfsf
+       //trong ngu
+>>>>>>> Stashed changes
     } 
 
   
