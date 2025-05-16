@@ -26,6 +26,7 @@ public class Test extends HttpServlet {
       String a = request.getParameter("a");
       String ok = request.getParameter("cf");
        String a1 = request.getParameter("a1");
+       //âfafadfdsfsf
     } 
 
   
